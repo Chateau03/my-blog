@@ -1,0 +1,11 @@
+identifier: kez8cf1cm5id30k6
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: D:\Documentos\RAUL\ProjectsTypeScript\Angular\my-blog
+distFolder: dist/my-blog
+outDir: D:\Documentos\RAUL\ProjectsTypeScript\Angular\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
